@@ -1,0 +1,26 @@
+body {
+	background-image: url("curry.jpg");
+	background-size: cover;
+}
+
+h1 {
+	font-family: 'Amatic SC', sans-serif;
+	text-shadow: 2px 2px #991f00;
+	color: #ffffff;
+}
+
+h2{
+	font-family: 'Amatic SC', sans-serif;
+	color: #ffffff;
+	text-shadow: 1px 1px #991f00;
+}
+
+p {
+	color: #ffffff;
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+}
+
+header {
+	padding-left: 15px;
+}
